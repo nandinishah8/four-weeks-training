@@ -14,7 +14,20 @@
 
         public static long CalculateFactorial(int number)
         {
-            throw new NotImplementedException();
+            if (number < 0)
+            {
+                throw new NotImplementedException();
+            }
+
+            else if (number == 0 || number == 1)
+            {
+                return 1;
+            }
+
+            else
+            {
+                return number * CalculateFactorial(number - 1);                
+            }
         }
     }
 }
