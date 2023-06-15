@@ -54,8 +54,8 @@
 
 
             Stack<string> stringStack = new Stack<string>();
-            stringStack.Push("Hello");
-            stringStack.Push("World");
+            stringStack.Push("Nandini");
+            stringStack.Push("Shah");
             Console.WriteLine("Popped item from stringStack: " + stringStack.Pop());
             Console.WriteLine("Is stringStack empty? " + stringStack.IsEmpty());
         }
@@ -72,8 +72,8 @@
             Age = age;
 
             Stack<Person> personStack = new Stack<Person>();
-            Person person1 = new Person("John", 25);
-            Person person2 = new Person("Jane", 30);
+            Person person1 = new Person("Nandini", 22);
+            Person person2 = new Person("Tanmay", 23);
             personStack.Push(person1);
             personStack.Push(person2);
             Console.WriteLine("Popped item from personStack: " + personStack.Pop().Name);
