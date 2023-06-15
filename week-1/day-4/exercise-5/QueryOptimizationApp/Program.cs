@@ -15,7 +15,7 @@ namespace QueryOptimizationApp
 
             // Optimized implementation
             sw.Restart();
-            
+            var optimizedQuery = data.AsParallel().AsOrdered().Where(x => x > 100).OrderByDescending(x => x).Take(10);
             sw.Stop();
             Console.WriteLine("Optimized Query: {0} ms", sw.ElapsedMilliseconds);
         }
