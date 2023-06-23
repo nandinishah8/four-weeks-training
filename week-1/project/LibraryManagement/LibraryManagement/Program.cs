@@ -88,6 +88,11 @@ namespace LibraryManagement
 
             Console.Write("Enter the book title: ");
             string title = Console.ReadLine();
+            if (books.Any(book => book.Title == title))
+            {
+                Console.WriteLine("A book with the given title already exists in the library.");
+                return;
+            }
 
             Console.Write("Enter the author's first name: ");
             string firstName = Console.ReadLine();
@@ -95,9 +100,12 @@ namespace LibraryManagement
             Console.Write("Enter the author's last name: ");
             string lastName = Console.ReadLine();
 
-            Console.Write("Enter the publication year: ");
-            int publicationYear;
-            int.TryParse(Console.ReadLine(), out publicationYear);
+            Console.WriteLine("Ener the author's date of birth (YYY--MM-DD): ");
+            DateTime dateOfBirth = DateTime.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the publication year: ");
+            int publicationYear = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Is the book available? (yes/no): ");
+            bool isAvailable = Console.ReadLine().ToLower() == "yes" ? true : false;
 
             Author author = FindOrCreateAuthor(authors, firstName, lastName);
 

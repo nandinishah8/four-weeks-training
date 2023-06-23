@@ -1,0 +1,15 @@
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.exe
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.deps.json
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.runtimeconfig.json
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.dll
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\bin\Debug\net7.0\LibraryManagement.pdb
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.dll
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\refint\LibraryManagement.dll
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.pdb
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\promact\source\repos\four-weeks-training\week-1\project\LibraryManagement\LibraryManagement\obj\Debug\net7.0\ref\LibraryManagement.dll
