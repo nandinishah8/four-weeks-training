@@ -491,9 +491,11 @@ namespace LibraryManagement
                 var borrowedBooks = books.Where(b => b.IsAvailable == false);
                 if (borrowedBooks != null)
                 {
-                    foreach (var b in borrowedBooks)
+                    foreach (var book in borrowedBooks)
                     {
-                        Console.WriteLine(b.ToString());
+                        
+                        Console.WriteLine("Book Name: {0}", book.Title);
+                       
                     }
                 }
                 else
